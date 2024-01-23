@@ -1,5 +1,5 @@
-LINKEDIN_CLIENT_ID=_____________
-LINKEDIN_CLIENT_SECRET=_____________
+LINKEDIN_CLIENT_ID=77u1ahu6io09oe
+LINKEDIN_CLIENT_SECRET=Rg6TdlM9TxyVjyAq
 LINKEDIN_AUTHORIZATION_URL=https://www.linkedin.com/oauth/v2/authorization
 LINKEDIN_REDIRECT_URI=http://localhost:{__PORT__}/callback
 LINKEDIN_ACCESS_TOKEN_URL=https://www.linkedin.com/oauth/v2/accessToken
